@@ -1,0 +1,12 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "This is a clone of YouTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": ["UB", "Upgrader Boy", "upgraderboy", "youtube", "ubchannel"],
+  "author": "Upgrader Boy",
+  "license": "ISC"
+}
